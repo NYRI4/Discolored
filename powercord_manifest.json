@@ -1,0 +1,9 @@
+{
+    "name": "Discolored",
+    "description": "",
+    "version": "1.0.0",
+    "author": "snapper#0001, Nyria#4198",
+    "theme": "powercord.scss",
+    "consent": "false",
+    "license": "MIT"
+}

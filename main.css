@@ -1,0 +1,85 @@
+/* 🛩️ Airplane */
+[style*='background-image: url("/assets/712a0fd4d14a1caadd31cb0745e91238.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/airplane.svg') !important; 
+}
+
+/* 🕹️ Arcades */
+[style*='background-image: url("/assets/d01c53acda73318e5b39676ef8242eb7.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/arcades.svg') !important; 
+}
+
+/* 🔨 Ban Hammer */    /* Broken there */
+[style*='background-image: url("/assets/789de85a973b1d974a21aa03c1e14323.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/ban_hammer.svg') !important; 
+}
+
+/* 🖥️ Computer */
+[style*='background-image: url("/assets/b47564b3086d0d8d941aae95a4b7b78c.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/computer.svg') !important; 
+}
+
+/* 😃 Emojis */
+[style*='background-image: url("/assets/a7371de3223292c6f31f8aeed62f17c1.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/emojis.svg') !important; 
+}
+
+/* 🎁 Gift Inventory */
+.theme-dark .emptyStateImage-2MrSNs {
+    background-image: url('https://nyri4.github.io/Discolored/asset/gift_inventory.svg');
+}
+
+/* 🏠 Houses */
+.theme-dark .emptyIconGuilds-3OViNh, .theme-light .emptyIconGuilds-3OViNh { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/houses.svg');
+}
+
+/* 💎 Nitro */
+[src="/assets/5a4ac7879fb43bc2509169b8fac68a4a.svg"] {
+    content: url('https://nyri4.github.io/Discolored/asset/nitro.svg');
+}
+
+/* 🙁 No Mutuals */
+.theme-dark .emptyIconFriends-BrjhY9, .theme-white .emptyIconFriends-BrjhY9 {
+    background-image: url('https://nyri4.github.io/Discolored/asset/no_mutuals.svg');
+    background-size: 100%;
+}
+
+/* 🖼️ Pictures */
+[style*='background-image: url("/assets/e9aaf1824f17126a7992e5ad98752389.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/pictures.svg') !important; 
+}
+
+/* 📜 Scroll */
+[style*='background-image: url("/assets/99253cefda98913b1e9f7d155ad81ed3.svg");'] {
+    background-image: url('https://nyri4.github.io/Discolored/asset/scroll.svg') !important; 
+}
+
+/* 📹 Test Video */
+[src="/assets/aba3ec7874f7f01fe9a8275a3e5c21a0.svg"] {
+    content: url('https://nyri4.github.io/Discolored/asset/test_video.svg');
+}
+
+/* 🗝️ Treasure Chest */
+[src="/assets/cdea41ede63f61153e4a3c0531fa3873.svg"] {
+    content: url('https://nyri4.github.io/Discolored/asset/treasure_chest.svg');
+}
+
+/* ⛏️ Wumpus Mining */
+[style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/wumpus_mining.svg') !important; 
+}
+
+/* 🗻 Wumpus Mountains */
+[style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/wumpus_mountain.svg') !important; 
+}
+
+/* 💤 Wumpus Sleeping */  /* Broken there too */
+[style*='background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/wumpus_sleeping.svg') !important; 
+}
+
+/* 🍵 Wumpus Tea Party */
+[style*='background-image: url("/assets/b5eb2f7d6b3f8cc9b60be4a5dcf28015.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/asset/wumpus_tea_party.svg') !important; 
+}
