@@ -23,8 +23,13 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/emojis.svg') !important; 
 }
 
+/* 👥 Groups */
+.theme-dark .noFriends-1fVUuM .errorStateIcon-3fNXE5, .theme-light .noFriends-1fVUuM .errorStateIcon-3fNXE55 {
+    background-image: url('https://nyri4.github.io/Discolored/assets/groups.svg');
+}
+
 /* 🎁 Gift Inventory */
-.theme-dark .emptyStateImage-2MrSNs {
+.theme-dark .emptyStateImage-2MrSNs, .theme-light .emptyStateImage-2MrSNs {
     background-image: url('https://nyri4.github.io/Discolored/assets/gift_inventory.svg');
 }
 
