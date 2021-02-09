@@ -3,7 +3,7 @@
     "description": "",
     "version": "1.0.0",
     "author": "snapper#0001, Nyria#4198",
-    "theme": "update.scss",
+    "theme": "update.css",
     "consent": "false",
     "license": "MIT"
 }
