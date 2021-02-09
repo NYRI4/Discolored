@@ -1,0 +1,11 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         Discolored
+    @description  Colorize Discord's boring SVGs.
+    @author       snapper#0001, Nyria#4198
+    @namespace    https://github.com/NYRI4/Discolored
+    @version      1.0.0
+    ==/UserStyle== */
+
+    @import "https://nyri4.github.io/Discolored/main.css";
+}
