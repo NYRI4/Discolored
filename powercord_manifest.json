@@ -3,7 +3,7 @@
     "description": "",
     "version": "1.0.0",
     "author": "snapper#0001, Nyria#4198",
-    "theme": "powercord.scss",
+    "theme": "update.scss",
     "consent": "false",
     "license": "MIT"
 }
