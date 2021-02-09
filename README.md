@@ -14,7 +14,7 @@ Colorize Discord's boring SVGs.
 
 
 ![Preview](https://nyri4.github.io/Discolored/assets/screenshot.png)
--->
+
 ---
 
 ## Installation
@@ -27,14 +27,9 @@ git clone https://github.com/NYRI4/Discolored
 
 [**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
 
-[Direct Download](placeholder) | [Source](placeholder)
+[Direct Download](https://betterdiscord.net/ghdl?id=3491) | [Source](https://nyri4.github.io/Discolored/main.css)
 
 **Web** :
 * Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 * Visit [This link](https://raw.githubusercontent.com/https://github.com/NYRI4/Discolored/support/discolored.user.css)
 * Install the style directly into your browser
-
-
-
-
-## Credits
