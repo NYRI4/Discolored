@@ -54,6 +54,11 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/pictures.svg') !important; 
 }
 
+/* 📌 Pinned */
+[style*='background-image: url("/assets/6793e022dc1b065b21f12d6df02f91bd.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/pinned.svg') !important; 
+}
+
 /* 📜 Scroll */
 [style*='background-image: url("/assets/99253cefda98913b1e9f7d155ad81ed3.svg");'] {
     background-image: url('https://nyri4.github.io/Discolored/assets/scroll.svg') !important; 
