@@ -18,8 +18,8 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/computer.svg') !important; 
 }
 
-/* 💥 Crash */ /* Not working rn, yeah that's not a joke */
-[style*='background-image: url("/assets/b47564b3086d0d8d941aae95a4b7b78c.svg");'] { 
+/* 💥 Crash */ /* Not working rn, yeah that's not a joke */ 
+.class-lambda { 
     background-image: url('https://nyri4.github.io/Discolored/assets/crash.svg') !important; 
 }
 
@@ -32,7 +32,8 @@
 }
 
 /* 😃 Emojis */
-[style*='background-image: url("/assets/a7371de3223292c6f31f8aeed62f17c1.svg");'] { 
+[style*='background-image: url("/assets/a7371de3223292c6f31f8aeed62f17c1.svg");'], 
+[style*='background-image: url("/assets/3236694e0c095adfbbd5334fc8dc7aa0.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/emojis.svg') !important; 
 }
 
@@ -70,6 +71,7 @@
 /* 🔎 🗣️ No results conversation */
 .theme-dark .emptyState-2gL-9T, .theme-light .emptyState-2gL-9T {
     background-image: url('https://nyri4.github.io/Discolored/assets/no_results_conv.svg');
+    background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
