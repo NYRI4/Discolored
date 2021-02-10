@@ -18,6 +18,11 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/computer.svg') !important; 
 }
 
+/* 💥 Crash */ /* Not working rn, yeah that's not a joke */
+[style*='background-image: url("/assets/b47564b3086d0d8d941aae95a4b7b78c.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/crash.svg') !important; 
+}
+
 /* 🎮 Developer Options */
 .theme-dark [style*='background-image: url("/assets/59c726954bd8424f376ca3a7eedc4c54.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/dev_options.svg') !important; 
@@ -62,7 +67,12 @@
     background-size: 100%;
 }
 
-/* 🔎 No results */
+/* 🔎 🗣️ No results conversation */
+.theme-dark .emptyState-2gL-9T, .theme-light .emptyState-2gL-9T {
+    background-image: url('https://nyri4.github.io/Discolored/assets/no_results_conv.svg');
+}
+
+/* 🔎 No results search bar*/
 .theme-dark .noResultsImage-3Y0eCI, .theme-light .noResultsImage-3Y0eCI {
     background-image: url('https://nyri4.github.io/Discolored/assets/no_results.svg');
 }
@@ -78,7 +88,9 @@
 }
 
 /* 💩 Poo */
-.theme-dark .imageError-2OefUi, .theme-light .imageError-2OefUi { 
+.theme-dark .imageError-2OefUi, .theme-light .imageError-2OefUi, 
+.theme-dark .invalidPoop-pnUbq7, .theme-light .invalidPoop-pnUbq7,
+.theme-dark .guildIconExpired-2Qcq05, .theme-light .guildIconExpired-2Qcq05 { 
     background-image: url('https://nyri4.github.io/Discolored/assets/poo.svg'); 
 }
 
@@ -87,9 +99,14 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/scroll.svg') !important; 
 }
 
+/* 🟢 Spotify error */
+.theme-dark .artworkSpotifySessionEnded-11d_If, .theme-light .artworkSpotifySessionEnded-11d_If {
+    background-image: url('https://nyri4.github.io/Discolored/assets/spotify_error.svg'); 
+}
+
 /* 🔴 Streamer Mode */
 .theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz {
-    background-image: url('https://nyri4.github.io/Discolored/assets/streamer_mode.svg') !important; 
+    background-image: url('https://nyri4.github.io/Discolored/assets/streamer_mode.svg'); 
 }
 
 /* 📹 Test Video */
@@ -118,6 +135,7 @@
 }
 
 /* 🍵 Wumpus Tea Party */
-[style*='background-image: url("/assets/b5eb2f7d6b3f8cc9b60be4a5dcf28015.svg");'] { 
+[style*='background-image: url("/assets/b5eb2f7d6b3f8cc9b60be4a5dcf28015.svg");'],
+.theme-dark .notFriends-SkjxV- .errorStateIcon-3fNXE5, .theme-light .notFriends-SkjxV- .errorStateIcon-3fNXE5 { 
     background-image: url('https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg') !important; 
 }
