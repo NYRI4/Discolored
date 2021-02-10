@@ -18,9 +18,22 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/computer.svg') !important; 
 }
 
+/* 🎮 Developer Options */
+.theme-dark [style*='background-image: url("/assets/59c726954bd8424f376ca3a7eedc4c54.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/dev_options.svg') !important; 
+}
+.theme-light [style*='background-image: url("/assets/fe5ef0f14b8d025d73465e2d76913e20.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/dev_options.svg') !important; 
+}
+
 /* 😃 Emojis */
 [style*='background-image: url("/assets/a7371de3223292c6f31f8aeed62f17c1.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/emojis.svg') !important; 
+}
+
+/* 🤷‍♂️ GIF not found */
+.theme-dark .sadImage-2ph8SI, .theme-light .sadImage-2ph8SI {
+    background-image: url('https://nyri4.github.io/Discolored/assets/gif_not_found.svg');
 }
 
 /* 👥 Groups */
@@ -44,9 +57,14 @@
 }
 
 /* 🙁 No Mutuals */
-.theme-dark .emptyIconFriends-BrjhY9, .theme-white .emptyIconFriends-BrjhY9 {
+.theme-dark .emptyIconFriends-BrjhY9, .theme-light .emptyIconFriends-BrjhY9 {
     background-image: url('https://nyri4.github.io/Discolored/assets/no_mutuals.svg');
     background-size: 100%;
+}
+
+/* 🔎 No results */
+.theme-dark .noResultsImage-3Y0eCI, .theme-light .noResultsImage-3Y0eCI {
+    background-image: url('https://nyri4.github.io/Discolored/assets/no_results.svg');
 }
 
 /* 🖼️ Pictures */
@@ -60,13 +78,18 @@
 }
 
 /* 💩 Poo */
-.theme-dark .imageError-2OefUi, .theme-white .imageError-2OefUi { 
+.theme-dark .imageError-2OefUi, .theme-light .imageError-2OefUi { 
     background-image: url('https://nyri4.github.io/Discolored/assets/poo.svg'); 
 }
 
 /* 📜 Scroll */
 [style*='background-image: url("/assets/99253cefda98913b1e9f7d155ad81ed3.svg");'] {
     background-image: url('https://nyri4.github.io/Discolored/assets/scroll.svg') !important; 
+}
+
+/* 🔴 Streamer Mode */
+.theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz {
+    background-image: url('https://nyri4.github.io/Discolored/assets/streamer_mode.svg') !important; 
 }
 
 /* 📹 Test Video */
