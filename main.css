@@ -111,7 +111,7 @@
 }
 
 /* 🔴 Streamer Mode */
-.theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz {
+.horizontalReverse-2eTKWD>.flex-1xMQg5:first-child, .horizontalReverse-2eTKWD>.flexChild-faoVW3:first-child {
     background-image: url('https://nyri4.github.io/Discolored/assets/streamer_mode.svg'); 
 }
 
