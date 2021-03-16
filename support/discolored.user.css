@@ -41,9 +41,15 @@
     content: url('https://nyri4.github.io/Discolored/assets/channel_settings.svg');
 }
 
+/* ⚙️ Category settings */
+[src="/assets/58957d928db6fb9d4658eb882f33d7bc.svg"],
+[src="/assets/c2c982c416a67d43d72d182f079a8d22.svg"] {
+    content: url('https://nyri4.github.io/Discolored/assets/category.svg');
+}
+
 /* 👥 🖼️ Community banner */
-.theme-dark .avatarUploaderInnerSquare-2wsxgt, .theme-light .avatarUploaderInnerSquare-2wsxgt {
-    background-image: url('https://nyri4.github.io/Discolored/assets/community_banner.svg');
+.previewCard-DOrO3c .splashImage-352DQ1 {
+    content: url('https://nyri4.github.io/Discolored/assets/community_banner.svg');
 }
 
 /* 🖥️ Computer */
@@ -75,7 +81,8 @@
 
 /* 😊 Friend */
 .theme-dark .channelNotice-1-XFjC.invite-OjTXrW, .theme-light .channelNotice-1-XFjC.invite-OjTXrW {
-    background-image: url('https://nyri4.github.io/Discolored/assets/friend.svg');
+    background-image: url('https://nyri4.github.io/Discolored/assets/friend.svg') no-repeat center 20px;
+    background-size: 40%;
 }
 
 /* 🤷‍♂️ GIF not found */
@@ -111,7 +118,8 @@
 
 /* 🔑 Key */
 .theme-dark .channelNotice-1-XFjC.guildMFAWarning-3GEzs8, .theme-light .channelNotice-1-XFjC.guildMFAWarning-3GEzs8 {
-    background-image: url('https://nyri4.github.io/Discolored/assets/key.svg');
+    background: url('https://nyri4.github.io/Discolored/assets/key.svg') no-repeat center 20px;
+    background-size: 40%;
 }
 
 /* 💎 Nitro */
@@ -193,7 +201,8 @@
 
 /* ↔️ Switch */
 .theme-dark .channelNotice-1-XFjC.quickswitcher-35bYg4, .theme-light .channelNotice-1-XFjC.quickswitcher-35bYg4 {
-    background-image: url('https://nyri4.github.io/Discolored/assets/switch.svg'); 
+    background-image: url('https://nyri4.github.io/Discolored/assets/switch.svg') no-repeat center 20px;
+    background-size: 40%;
 }
 
 /* 📹 Test Video */
