@@ -127,6 +127,11 @@
     content: url('https://nyri4.github.io/Discolored/assets/nitro.svg');
 }
 
+/* ❌ No channel */
+[style*='background-image: url("/assets/94b5558353f1d01035a874f6eddf6d70");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/no_channel.svg') !important; 
+}
+
 /* ⌨️ No keybinds */
 .theme-dark .image-1GzsFd, .theme-light .image-1GzsFd {
     background-image: url('https://nyri4.github.io/Discolored/assets/no_keybinds.svg');
@@ -221,6 +226,9 @@
 .theme-dark .imageUnclaimed-5nJyYs, .theme-light .imageUnclaimed-5nJyYs {
     background-image: url('https://nyri4.github.io/Discolored/assets/unclaimed.svg'); 
 }
+
+/* 🔊 Vocal full */
+.fullArt-2zAZvG { background-image: url('https://nyri4.github.io/Discolored/assets/vocal_full.svg'); }
 
 /* ⛏️ Wumpus Mining */
 [style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'],
