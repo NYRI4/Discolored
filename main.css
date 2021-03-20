@@ -119,7 +119,7 @@
 }
 
 /* ❌ No channel */
-[style*='background-image: url("/assets/94b5558353f1d01035a874f6eddf6d70");'] { 
+[style*='background-image: url("/assets/94b5558353f1d01035a874f6eddf6d70.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/no_channel.svg') !important; 
 }
 
