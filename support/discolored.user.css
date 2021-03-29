@@ -25,6 +25,11 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/ban_hammer.svg') !important; 
 }
 
+/* 🚀 Boost */
+.theme-dark .channelNotice-3DDmsB {
+    background-image: url('https://nyri4.github.io/Discolored/assets/boost.svg');
+}
+
 /* 🔎💥 Broken magnifying glass */ 
 .theme-dark .errorImage-12Q43V, .theme-light .errorImage-12Q43V {
     background-image: url('https://nyri4.github.io/Discolored/assets/broken.svg'); 
@@ -32,7 +37,7 @@
 
 /* 🏰 Castle */
 .theme-dark .verification-3RfWYC, .theme-light .verification-3RfWYC {
-    background-image: url('https://nyri4.github.io/Discolored/assets/castle.svg');
+    background-image: url('https://nyri4.github.io/Discolored/assets/castle.svg') no-repeat;
 }
 
 /* ⚙️ Channel settings */
