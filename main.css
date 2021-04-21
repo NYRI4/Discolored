@@ -107,9 +107,8 @@
 }
 
 /* ✨ Integrations */
-[src="/assets/36d0e0bb009fa362c2533003c0af67b5.svg"],
-[src="/assets/c9b2eb9473c66578a8e021e9fe46b74b.svg"] {
-    content: url('https://nyri4.github.io/Discolored/assets/integrations.svg');
+.theme-dark .footerImage-4UrEF0, .theme-light .footerImage-4UrEF0 { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/integrations.svg');
 }
 
 /* 🔑 Key */
@@ -129,8 +128,9 @@
 }
 
 /* ⌨️ No keybinds */
-.theme-dark .image-1GzsFd, .theme-light .image-1GzsFd {
-    background-image: url('https://nyri4.github.io/Discolored/assets/no_keybinds.svg');
+[style*='background-image: url("/assets/f3bb89a27e9d102f748da035cd7e5df7.svg");'],
+[style*='background-image: url("/assets/21b610d45d1f2175431413ad53258aa6.svg");']  {
+    background-image: url('https://nyri4.github.io/Discolored/assets/no_keybinds.svg') !important;
 }
 
 /* 🙁 No Mutuals */
