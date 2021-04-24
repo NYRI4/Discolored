@@ -250,3 +250,19 @@
 .theme-dark .notFriends-SkjxV- .errorStateIcon-3fNXE5, .theme-light .notFriends-SkjxV- .errorStateIcon-3fNXE5 { 
     background-image: url('https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg') !important; 
 }
+
+/* 🏓 @everyone */
+.everyonePopout-nEbJY3 g > :nth-child(2) > :first-child path { fill: #0000003d;}
+.everyonePopout-nEbJY3 g > :nth-child(3) > :first-child path { fill: #99ABD8;}
+.everyonePopout-nEbJY3 g > :nth-child(3) > :nth-child(2) path { fill: #7A8EC7;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :first-child path { fill: #B3CAFB;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(2) path { fill: #C2D2F1;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(3) path,
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(4) path { fill: #A0B2DC;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(5) path,
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(6) path { fill: #7A8EC7;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(7) path { fill: #8BA0D2;}
+.everyonePopout-nEbJY3 g > :nth-child(4) > :nth-child(8) path { fill: #C2D2F1;}
+.everyonePopout-nEbJY3 g > :nth-child(6) > :nth-child(2) path { fill: #99ABD8;}
+.everyonePopout-nEbJY3 g > :nth-child(10) > :first-child path { fill: #E0C310;}
+.everyonePopout-nEbJY3 g > :nth-child(11) > :first-child path { fill: #FBD907;}
