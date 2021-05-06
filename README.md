@@ -27,7 +27,7 @@ git clone https://github.com/NYRI4/Discolored
 
 [**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
 
-[Direct Download](https://betterdiscord.net/ghdl?id=3491) | [Source](https://nyri4.github.io/Discolored/main.css)
+[Direct Download](https://betterdiscord.app/Download?id=22) | [Source](https://nyri4.github.io/Discolored/main.css)
 
 **Web** :
 * Install **Stylus** | [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) | [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
