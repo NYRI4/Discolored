@@ -25,7 +25,7 @@ Colorize Discord's boring SVGs.
 git clone https://github.com/NYRI4/Discolored
 ```
 
-[**BetterDiscord**](https://betterdiscord.net/home/) : <br/> 
+[**BetterDiscord**](https://betterdiscord.app/) : <br/> 
 
 [Direct Download](https://betterdiscord.app/Download?id=22) | [Source](https://nyri4.github.io/Discolored/main.css)
 
