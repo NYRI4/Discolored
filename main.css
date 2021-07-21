@@ -266,3 +266,23 @@
 .everyonePopout-nEbJY3 g > :nth-child(6) > :nth-child(2) path { fill: #99ABD8;}
 .everyonePopout-nEbJY3 g > :nth-child(10) > :first-child path { fill: #E0C310;}
 .everyonePopout-nEbJY3 g > :nth-child(11) > :first-child path { fill: #FBD907;}
+
+/* No message loggers */
+.title-3qD0b- { z-index: unset !important;}
+.title-3qD0b- .toolbar-1t6TWx > *:not([id*="-"]) { z-index: 1;}
+.iconWrapper-2OrFZ1[id*="-"][role="button"] { margin: 0;}
+.iconWrapper-2OrFZ1[id*="-"][role="button"] svg { display: none;}
+.iconWrapper-2OrFZ1[id*="-"][role="button"]::after {
+    content: "Hey, looks like you're using a message logger, which means you're violating privacy rights of others and most importantly respect and trust. My themes will not support those kind of plugins, so if you want to use them again, you need to go in your plugin folder with your file explorer and delete it."; 
+    position: fixed; display: flex;
+    top: 0; right: 0; bottom: 0; left: 0; z-index: 1002;
+    align-items: center; justify-content: center;
+    backdrop-filter: blur(12px);
+    background: url('https://i.imgur.com/37P8oCz.png') no-repeat;
+    background-position: center calc(50% - 170px);
+    font-size: 22px; padding: 100px;
+    text-align: center;
+    border-radius: 8px;
+    line-height: 40px;
+    pointer-events: none;
+}
