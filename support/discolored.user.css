@@ -205,7 +205,8 @@
 }
 
 /* 🔴 Streamer Mode */
-.theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz {
+.theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz,
+.theme-dark .emptyIconStreamerMode-1h-oZF, .theme-light .emptyIconStreamerMode-1h-oZF {
     background-image: url('https://nyri4.github.io/Discolored/assets/streamer_mode.svg'); 
 }
 
