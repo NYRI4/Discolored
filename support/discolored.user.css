@@ -204,6 +204,12 @@
     background-image: url('https://nyri4.github.io/Discolored/assets/spotify_error.svg'); 
 }
 
+/* 🤷‍♂️ Sticker not found */
+[style*='background-image: url("/assets/7445c3003909a83b8f7ace3ff361fc98.svg");'],
+[style*='background-image: url("/assets/7445c3003909a83b8f7ace3ff361fc98.svg");'] {
+    background-image: url('https://nyri4.github.io/Discolored/assets/sticker_not_found.svg') !important; 
+}
+
 /* 🔴 Streamer Mode */
 .theme-dark .streamerModeEnabledImage-3vynUz, .theme-light .streamerModeEnabledImage-3vynUz,
 .theme-dark .emptyIconStreamerMode-1h-oZF, .theme-light .emptyIconStreamerMode-1h-oZF {
