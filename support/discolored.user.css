@@ -69,7 +69,9 @@
 
 /* 🎮 Developer Options */
 [style*='background-image: url("/assets/59c726954bd8424f376ca3a7eedc4c54.svg");'],
-[style*='background-image: url("/assets/fe5ef0f14b8d025d73465e2d76913e20.svg");'] { 
+[style*='background-image: url("/assets/fe5ef0f14b8d025d73465e2d76913e20.svg");'],
+[style*='background-image: url("/assets/350e1c6739823620f031d023a48ac9d4.svg");'],
+[style*='background-image: url("/assets/3123277eb2e7083fde983985dcd209a6.sv");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/dev_options.svg') !important; 
 }
 
@@ -230,7 +232,9 @@
 
 /* 🗝️ Treasure Chest */
 [src="/assets/cdea41ede63f61153e4a3c0531fa3873.svg"],
-[src="/assets/f8696a3854655998a24c219403420867.svg"] {
+[src="/assets/f8696a3854655998a24c219403420867.svg"],
+[src="/assets/67430d140a79af95585a19d304731dc5.svg"],
+[src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"] {
     content: url('https://nyri4.github.io/Discolored/assets/treasure_chest.svg');
 }
 
@@ -250,7 +254,9 @@
 
 /* 🗻 Wumpus Mountains */
 [style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'],
-[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'] { 
+[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'],
+[style*='background-image: url("/assets/b36c705f790dad253981f1893085015a.svg");'],
+[style*='background-image: url("/assets/36c9a2fb7d0593a581a92373121c2848.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg') !important; 
 }
 
