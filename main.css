@@ -5,8 +5,8 @@
 }
 
 /* 🕹️ Arcades */
-[style*='background-image: url("/assets/d01c53acda73318e5b39676ef8242eb7.svg");'],
-[style*='background-image: url("/assets/bb8e02d970950bdadb649d765f3b8488.svg");'] { 
+[style*='background-image: url("/assets/beec347635d7597215747fcaf461e569.svg");'],
+[style*='background-image: url("/assets/9581653a5a4d0b7b56187044a9db301a.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/arcades.svg') !important; 
 }
 
@@ -120,7 +120,7 @@
 }
 
 /* 💎 Nitro */
-[src="/assets/5a4ac7879fb43bc2509169b8fac68a4a.svg"] {
+[src="/assets/b60ecd82d8fa5a8e21739e7025692429.svg"] {
     content: url('https://nyri4.github.io/Discolored/assets/nitro.svg');
 }
 
@@ -216,8 +216,8 @@
 }
 
 /* 📹 Test Video */
-[src="/assets/aba3ec7874f7f01fe9a8275a3e5c21a0.svg"],
-[src="/assets/baf6cccc846651d5ca897296163227f5.svg"] {
+[src="/assets/ca9e397003df8b46709315d7a248c7de.svg"],
+[src="/assets/4f1b647aa3292d7d0c30658b659ed9f3.svg"] {
     content: url('https://nyri4.github.io/Discolored/assets/test_video.svg');
 }
 
@@ -279,3 +279,4 @@
 .everyonePopout-nEbJY3 g > :nth-child(6) > :nth-child(2) path { fill: #99ABD8;}
 .everyonePopout-nEbJY3 g > :nth-child(10) > :first-child path { fill: #E0C310;}
 .everyonePopout-nEbJY3 g > :nth-child(11) > :first-child path { fill: #FBD907;}
+}
