@@ -1,7 +1,7 @@
 {
     "name": "Discolored",
     "description": "Colorize Discord's boring SVGs",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "author": "snapper#0001, Nyria#4198",
     "theme": "support/discolored.theme.css",
     "consent": "false",
