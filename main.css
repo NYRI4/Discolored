@@ -254,8 +254,8 @@
 }
 
 /* 💤 Wumpus Sleeping */
-[style*='background-image: url("/assets/a12ff54c4c5c03b41006fd96a4709c29.svg");'],
-[style*='background-image: url("/assets/d834d700306f3838c0facef39e7d8a38.svg");'] { 
+[style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");'],
+[style*='background-image: url("/assets/fd879a28807b66b38d54e7db6ea18a69.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/wumpus_sleeping.svg') !important; 
 }
 
