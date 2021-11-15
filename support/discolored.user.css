@@ -24,10 +24,11 @@
 [style*='background-image: url("/assets/8f841811896e9d1eefcd13bcdaca9579.svg");'] { 
     background-image: url('https://nyri4.github.io/Discolored/assets/ban_hammer.svg') !important; 
 }
-
+    
 /* 🚀 Boost */
 .theme-dark .channelNotice-3DDmsB {
     background-image: url('https://nyri4.github.io/Discolored/assets/boost.svg');
+    background-repeat: no-repeat; background-position: center;
 }
 
 /* 🔎💥 Broken magnifying glass */ 
