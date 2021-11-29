@@ -213,8 +213,7 @@
 
 /* ↔️ Switch */
 .theme-dark .channelNotice-1-XFjC.quickswitcher-35bYg4, .theme-light .channelNotice-1-XFjC.quickswitcher-35bYg4 {
-    background-image: url('https://nyri4.github.io/Discolored/assets/switch.svg') no-repeat center 20px;
-    background-size: 40%;
+    background: url('https://nyri4.github.io/Discolored/assets/switch.svg') no-repeat center 20px;
 }
 
 /* 📹 Test Video */
