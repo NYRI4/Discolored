@@ -28,7 +28,7 @@
 /* 🚀 Boost */
 .theme-dark .channelNotice-3-mDJt, .theme-light .channelNotice-3-mDJt {
     background-image: url('https://nyri4.github.io/Discolored/assets/boost.svg');
-    background-repeat: no-repeat; background-position: center;
+    background-repeat: no-repeat;
 }
 
 /* 🔎💥 Broken magnifying glass */ 
@@ -273,6 +273,12 @@
 [style*='background-image: url("/assets/6b7098de4cc16f7e431ad8f9aae7f6db.svg");'],
 .theme-dark .notFriends-lSusTz .errorStateIcon-3y6XWh, .theme-light .notFriends-lSusTz .errorStateIcon-3y6XWh { 
     background-image: url('https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg') !important; 
+}
+
+/* 💬 Group chat */
+[style*='background-image: url("/assets/25f3555f54d3c872f0ac7a5922c8eccf.svg");'],
+[style*='background-image: url("/assets/e1865a8cd9d685b3f6b69d22adc9b429.svg");'] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/ban_hammer.svg') !important; 
 }
 
 /* 🏓 @everyone */
