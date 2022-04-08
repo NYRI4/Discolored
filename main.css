@@ -267,9 +267,8 @@
 }
 
 /* 💬 Group chat */
-[style*='background-image: url("/assets/25f3555f54d3c872f0ac7a5922c8eccf.svg");'],
-[style*='background-image: url("/assets/e1865a8cd9d685b3f6b69d22adc9b429.svg");'] { 
-    background-image: url('https://nyri4.github.io/Discolored/assets/ban_hammer.svg') !important; 
+[class^="partyFull-"] { 
+    background-image: url('https://nyri4.github.io/Discolored/assets/weapons.svg') !important; 
 }
 
 /* 🏓 @everyone */
