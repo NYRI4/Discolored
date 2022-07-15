@@ -99,7 +99,7 @@
 }
 
 /* 🤷‍ GIF picker end */
-.theme-dark .endContainer-3FEUTM:after, .theme-light .endContainer-3FEUTM:after {
+.theme-dark .endContainer-22e-US::after, .theme-light .endContainer-22e-US::after {
     background-image: url('https://nyri4.github.io/Discolored/assets/gif_picker_end.svg');
 }
 
