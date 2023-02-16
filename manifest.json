@@ -12,7 +12,7 @@
         "type": "github",
         "id": "NYRI4/Discolored"
     },
-    "license": "MIT",
+    "license": "WTFPL",
     "type": "replugged-theme",
     "main": "main.css"
 }
