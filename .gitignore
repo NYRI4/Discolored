@@ -1,1 +1,7 @@
+# Prettier
 .prettierignore
+
+# Replugged
+node_modules
+dist
+.parcel-cache
