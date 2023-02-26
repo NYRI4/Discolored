@@ -106,7 +106,7 @@ packages:
       w3c-keyname: 2.2.6
     dev: true
 
-  /@ddietr/codemirror-themes/1.3.0:
+  /@ddietr/codemirror-themes/1.3.1:
     resolution: {integrity: sha512-cJl4WOQC/EjwR9tVhijiZC1KfqeaCoWPKAt+mhpzLca61YRCZk87hfnPN/wbB7ekBiycPYlMM+yar3ulWhLFSA==}
     dependencies:
       '@codemirror/language': 6.6.0
@@ -2211,7 +2211,7 @@ packages:
       '@codemirror/lang-css': 6.0.2
       '@codemirror/language': 6.6.0
       '@codemirror/state': 6.2.0
-      '@ddietr/codemirror-themes': 1.3.0
+      '@ddietr/codemirror-themes': 1.3.1
       '@electron/asar': 3.2.3
       '@lezer/highlight': 1.1.3
       '@octokit/rest': 19.0.7
