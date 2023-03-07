@@ -8,11 +8,12 @@
 
   <br/>
 
-  <a href="https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/NYRI4/Discolored/support/discolored.theme.css"><strong>» Theme Preview</strong></a>
-  ・
-  <a href="https://github.com/NYRI4/Discolored/issues">Report an issue</a>
-  ・
-  <a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
+<a href="https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/NYRI4/Discolored/support/discolored.theme.css"><strong>» Theme Preview</strong></a>
+・
+<a href="https://github.com/NYRI4/Discolored/issues">Report an issue</a>
+・
+<a href="https://discord.gg/comfy-camp-811203761619337259">Join the support server</a>
+
 </div>
 <br/>
 
@@ -35,25 +36,4 @@
     <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
     <br/>Copy <code>https://nyri4.github.io/Couve/betterdiscord/discolored.theme.css</code> into the box in Settings > Themes > Themes tab </p>
-</div><br/>
-
-## 🖌️ Customization
-
-<br/>
-<div align="left">
-    <img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45">
-    <b><p align="left">BetterDiscord</b>
-    <br/>Open Settings > Themes > Themes folder and open <code>discolored.theme.css</code></p>
-</div>
-
-<div align="left">
-    <img align="left" src="https://i.imgur.com/pfS7jdg.png" alt="Replugged" width="45" height="45">
-    <b><p align="left">Replugged</b>
-    <br/>Navigate to <code>betterdiscord/discolored.theme.css</code> on Github, copy the content and paste it in Custom CSS, then modify variables</p>
-</div>
-
-<div align="left">
-    <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
-    <b><p align="left">Vencord</b>
-    <br/>Navigate to <code>betterdiscord/discolored.theme.css</code> on Github, copy the content and paste it in Custom CSS, then modify variables</p>
 </div><br/>
