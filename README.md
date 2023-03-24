@@ -35,5 +35,5 @@
 <div align="left">
     <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
     <b><p align="left">Vencord</b>
-    <br/>Copy <code>https://nyri4.github.io/Couve/betterdiscord/discolored.theme.css</code> into the box in Settings > Themes > Themes tab </p>
+    <br/>Copy <code>https://nyri4.github.io/Discolored/support/discolored.theme.css</code> into the box in Settings > Themes > Themes tab </p>
 </div><br/>
