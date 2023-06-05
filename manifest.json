@@ -7,10 +7,10 @@
     "discordID": "265924886461939712",
     "github": "NYRI4"
   },
-  "version": "1.3.3",
+  "version": "1.3.4",
   "updater": {
-    "type": "github",
-    "id": "NYRI4/Discolored"
+    "type": "store",
+    "id": "nyria.discolored"
   },
   "license": "WTFPL",
   "type": "replugged-theme",
