@@ -1,18 +1,18 @@
 /* 🛩️ Airplane */
-[style*='background-image: url("/assets/88d6e5a673e816bf927dc8fe11d42d29.svg");'],
-[style*='background-image: url("/assets/9937df80bc9c58a3e67709f58402f4db.svg");'] {
+[style*='background-image: url("/assets/c7c4065874955761be3b.svg");'],
+[style*='background-image: url("/assets/a1b0a14d2f22c155a2b3.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/airplane.svg") !important;
 }
 
 /* 🕹️ Arcades */
-[style*='background-image: url("/assets/beec347635d7597215747fcaf461e569.svg");'],
-[style*='background-image: url("/assets/9581653a5a4d0b7b56187044a9db301a.svg");'] {
+[style*='background-image: url("/assets/0fcdddd7e59d53cf3253.svg");'],
+[style*='background-image: url("/assets/ff9cfb0571740063f0be.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/arcades.svg") !important;
 }
 
 /* 🔨 Ban Hammer */
-[style*='background-image: url("/assets/d6b031b6f8ec4761e1dac30e4e33f235.svg");'],
-[style*='background-image: url("/assets/8f841811896e9d1eefcd13bcdaca9579.svg");'] {
+[style*='background-image: url("/assets/cdc3f4f6fbf3a0f0766f.svg");'],
+[style*='background-image: url("/assets/c65431f185feb7b00749.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/ban_hammer.svg") !important;
 }
 
@@ -24,28 +24,26 @@
 }
 
 /* 🔎💥 Broken magnifying glass */
-.theme-dark .errorImage-19HeaA,
-.theme-light .errorImage-19HeaA {
+:root .errorImage__416df {
   background: url("https://nyri4.github.io/Discolored/assets/broken.svg")
     center/cover;
 }
 
 /* 🏰 Castle */
-.theme-dark .verification-2oQUwN .image-cLINxN,
-.theme-light .verification-2oQUwN .image-cLINxN {
+:root .verification__82f71 .image__54a8d {
   background: url("https://nyri4.github.io/Discolored/assets/castle.svg") 50%/80%
     no-repeat;
 }
 
 /* ⚙️ Channel settings here and u didn't finished */
-[src="/assets/3726fbfb6d657f9baf0582017ec8238c.svg"],
-[src="/assets/075cd4741407c7fb961e0758155a05e1.svg"] {
+[src="/assets/c1875fc8a42a61903ba1.svg"],
+[src="/assets/73984240bd99493de947.svg"] {
   content: url("https://nyri4.github.io/Discolored/assets/channel_settings.svg");
 }
 
 /* ⚙️ Category settings */
-[src="/assets/79a16912d0c0f2b7b430f8906bdfff9d.svg"],
-[src="/assets/40afd79566cad1d0b437bf41a9c410df.svg"] {
+[src="/assets/1964f50ca0220e98dc32.svg"],
+[src="/assets/387a7c504c96b992872d.svg"] {
   content: url("https://nyri4.github.io/Discolored/assets/category_settings.svg");
 }
 
@@ -61,28 +59,25 @@
 }
 
 /* 💥 Crash */
-.theme-dark .image-35kDIs,
-.theme-light .image-35kDIs {
+:root .image_dabcb8 {
   background-image: url("https://nyri4.github.io/Discolored/assets/crash.svg");
 }
 
 /* 🎮 Developer Options */
-[style*='background-image: url("/assets/350e1c6739823620f031d023a48ac9d4.svg");'],
-[style*='background-image: url("/assets/3123277eb2e7083fde983985dcd209a6.svg");'] {
+[style*='background-image: url("/assets/8debd25fc894741dafd0.svg");'],
+[style*='background-image: url("/assets/a0e249703c7cad81a7c1.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/dev_options.svg") !important;
 }
 
 /* 😃 Emojis */
-[style*='background-image: url("/assets/b21e574729a2e2b9243d811be7333677.svg");'],
-[style*='background-image: url("/assets/2a35872721f98f9de6218eaedbd54a78.svg");'] {
+[style*='background-image: url("/assets/295da3fc92e2adb1b852.svg");'],
+[style*='background-image: url("/assets/c8be48745cf680093019.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/emojis.svg") !important;
 }
 
 /* 📭 Empty */
-.theme-dark .image-33oh8u,
-.theme-light .image-33oh8u,
-.theme-dark .emptyImage-2pCD2j,
-.theme-light .emptyImage-2pCD2j {
+:root .image__88b66,
+:root .emptyImage__66bed {
   background-image: url("https://nyri4.github.io/Discolored/assets/empty.svg");
 }
 
@@ -95,40 +90,33 @@
 }
 
 /* 🤷‍♂️ GIF not found */
-.theme-dark .sadImage-2_mw0p,
-.theme-light .sadImage-2_mw0p {
+:root .sadImage_e4e5ab {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_not_found.svg");
 }
 
 /* 🤷‍ GIF picker end */
-.theme-dark .endContainer-22e-US::after,
-.theme-light .endContainer-22e-US::after {
+:root .endContainer__0c909::after {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_picker_end.svg");
 }
 
 /* 👥 Groups */
-.theme-dark .noFriends-1Y8EWR .errorStateIcon-3y6XWh,
-.theme-light .noFriends-1Y8EWR .errorStateIcon-3y6XWh5 {
+:root .noFriends_a7f7ca .errorStateIcon__7edd85 {
   background-image: url("https://nyri4.github.io/Discolored/assets/groups.svg");
 }
 
 /* 🎁 Gift Inventory */
-.theme-dark .emptyStateImage-1kilCd,
-.theme-light .emptyStateImage-1kilCd,
-.theme-dark .emptyWumpus-11kRB0,
-.theme-light .emptyWumpus-11kRB0 {
+:root .emptyStateImage__3e0a5,
+:root .emptyWumpus__67af4 {
   background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
 }
 
 /* 🏠 Houses */
-.theme-dark .emptyIconGuilds-8ibZfz,
-.theme-light .emptyIconGuilds-8ibZfz {
+:root .emptyIconGuilds__72704 {
   background-image: url("https://nyri4.github.io/Discolored/assets/houses.svg");
 }
 
 /* ✨ Integrations */
-.theme-dark .footerImage-2WsqiE,
-.theme-light .footerImage-2WsqiE {
+:root .footerImage__21e33 {
   background-image: url("https://nyri4.github.io/Discolored/assets/integrations.svg");
 }
 
@@ -146,8 +134,8 @@
 }
 
 /* ❌ No channel */
-[style*='background-image: url("/assets/ed2007aab2da31a5436e70a28b4d59f9.svg");'],
-[style*='background-image: url("/assets/7ad95b56788fc31c3e5eec667129ba68.svg");'] {
+[style*='background-image: url("/assets/dee199baf31d0fc4227d.svg");'],
+[style*='background-image: url("/assets/8f386efbc744b1e32997.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_channel.svg") !important;
 }
 
@@ -158,62 +146,55 @@
 }
 
 /* 🙁 No Mutuals */
-.theme-dark .emptyIconFriends-3MCBQa,
-.theme-light .emptyIconFriends-3MCBQa {
+:root .emptyIconFriends__8e334 {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_mutuals.svg");
   background-size: 100%;
 }
 
 /* 🔎 🗣️ No results conversation */
-.theme-dark .emptyState-1OLqEw,
-.theme-light .emptyState-1OLqEw {
+:root .emptyState_afda24 {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results_conv.svg");
   background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
-.theme-dark .noResultsImage-1-dP2n,
-.theme-light .noResultsImage-1-dP2n {
+:root .noResultsImage__08760 {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results.svg");
 }
 
 /* 📱 Phones */
-.theme-dark .verificationBlock-xhj3fR .image-cLINxN.phone-2wue_-,
-.theme-light .verificationBlock-xhj3fR .image-cLINxN.phone-2wue_- {
+:root .verificationBlock_c45d0e .image__54a8d.phone__0b460 {
   background-image: url("https://nyri4.github.io/Discolored/assets/phones.svg");
 }
 
 /* 🖼️ Pictures */
-[style*='background-image: url("/assets/f1e026332f1d6e902bcbbc07892bc849.svg");'],
-[style*='background-image: url("/assets/fd65da49c3073002049383baeb24e658.svg");'] {
+[style*='background-image: url("/assets/53e9102a961af6cf7254.svg");'],
+[style*='background-image: url("/assets/db947193d549bd45c3a3.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/pictures.svg") !important;
 }
 
 /* 📌 Pinned */
-[style*='background-image: url("/assets/ef3a1ed683cfcf029971b12a26462072.svg");'],
-[style*='background-image: url("/assets/96ad9c7f6f636a7fb2028e2a07847776.svg");'] {
+[style*='background-image: url("/assets/64df6f04b850029d2e78.svg");'],
+[style*='background-image: url("/assets/9e2f412156e2ac1f14e9.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/pinned.svg") !important;
 }
 
 /* 💩 Poo */
-.theme-dark .imageError-dy476I,
-.theme-light .imageError-dy476I,
-.theme-dark .invalidPoop--w1123,
-.theme-light .invalidPoop--w1123,
-.theme-dark .guildIconExpired-2BFmZC,
-.theme-light .guildIconExpired-2BFmZC {
-  background-image: url("https://nyri4.github.io/Discolored/assets/poop.svg");
+:root .imageError__77b3e,
+:root .invalidPoop__03aa3,
+:root .guildIconExpired__1d51f {
+  content: url("https://nyri4.github.io/Discolored/assets/poop.svg");
 }
 
 /* 📜 Scroll */
-[style*='background-image: url("/assets/6f3eec6ec5f47f36e3bce40e6176bfbe.svg");'],
-[style*='background-image: url("/assets/ba5f6c10149932705aef4f169ad75e5a.svg");'] {
+[style*='background-image: url("/assets/cf8f9096a9322f2ae0d7.svg");'],
+[style*='background-image: url("/assets/5e3480eff150b1cb323e.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/scroll.svg") !important;
 }
 
 /* 🔎 Searching */
-.theme-dark .searchIndexBackground-2pbSFD,
-.theme-light .searchIndexBackground-2pbSFD {
+.theme-dark .searchIndexBackground__14e66,
+.theme-light .searchIndexBackground__14e66 {
   background-image: url("https://nyri4.github.io/Discolored/assets/searching.svg");
 }
 
@@ -224,22 +205,18 @@
 }
 
 /* 🟢 Spotify error */
-.theme-dark .artworkSpotifySessionEnded-D18iXB,
-.theme-light .artworkSpotifySessionEnded-D18iXB {
+:root .artworkSpotifySessionEnded__8272a {
   background-image: url("https://nyri4.github.io/Discolored/assets/spotify_error.svg");
 }
 
 /* 🤷‍♂️ Sticker not found */
-[style*='background-image: url("/assets/bee123bfad40a3fb4bb42f8d318dd867.svg");'],
-[style*='background-image: url("/assets/bee123bfad40a3fb4bb42f8d318dd867.svg");'] {
+[style*='background-image: url("/assets/d6e0ab2f94e516718aa7.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/sticker_not_found.svg") !important;
 }
 
 /* 🔴 Streamer Mode */
-.theme-dark .streamerModeEnabledImage-2EveVD,
-.theme-light .streamerModeEnabledImage-2EveVD,
-.theme-dark .emptyIconStreamerMode-3P4I-V,
-.theme-light .emptyIconStreamerMode-3P4I-V {
+:root .streamerModeEnabledImage_a0d94f,
+:root .emptyIconStreamerMode__0b218 {
   background-image: url("https://nyri4.github.io/Discolored/assets/streamer_mode.svg");
 }
 
@@ -251,8 +228,7 @@
 }
 
 /* 📹 Test Video */
-.theme-dark .previewImage-7EfQfc,
-.theme-light .previewImage-7EfQfc {
+:root .previewImage__91c1c {
   content: url("https://nyri4.github.io/Discolored/assets/test_video.svg");
 }
 
@@ -275,74 +251,72 @@
 }
 
 /* ⛏️ Wumpus Mining */
-[style*='background-image: url("/assets/8c998f8fb62016fcfb4901e424ff378b.svg");'],
-[style*='background-image: url("/assets/645df33d735507f39c78ce0cac7437f0.svg");'] {
+[style*='background-image: url("/assets/532f1d4582d881960783.svg");'],
+[style*='background-image: url("/assets/ee4637f8627629dd0da5.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mining.svg") !important;
 }
 
 /* 🗻 Wumpus Mountains */
-[style*='background-image: url("/assets/b669713872b43ca42333264abf9c858e.svg");'],
-[style*='background-image: url("/assets/c84361b810ca7c10d6e8ddb6ea722ebe.svg");'],
-[style*='background-image: url("/assets/b36c705f790dad253981f1893085015a.svg");'],
-[style*='background-image: url("/assets/36c9a2fb7d0593a581a92373121c2848.svg");'] {
+[style*='background-image: url("/assets/01864c39871ce619d855.svg");'],
+[style*='background-image: url("/assets/a72746e7108167af95c8.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg") !important;
 }
 
 /* 💤 Wumpus Sleeping */
-[style*='background-image: url("/assets/b36de980b174d7b798c89f35c116e5c6.svg");'],
-[style*='background-image: url("/assets/fd879a28807b66b38d54e7db6ea18a69.svg");'] {
+[style*='background-image: url("/assets/24aa06be5457e66bdd64.svg");'],
+[style*='background-image: url("/assets/0629e34902ae58f8e4ca.svg");'] {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_sleeping.svg") !important;
 }
 
 /* 🍵 Wumpus Tea Party */
-[style*='background-image: url("/assets/b5eb2f7d6b3f8cc9b60be4a5dcf28015.svg");'],
-[style*='background-image: url("/assets/6b7098de4cc16f7e431ad8f9aae7f6db.svg");'],
-.theme-dark .notFriends-lSusTz .errorStateIcon-3y6XWh,
-.theme-light .notFriends-lSusTz .errorStateIcon-3y6XWh {
+[style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
+[style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
+.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
+.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
 }
 
 /* 💬 Group chat */
-[class^="partyFull-"] {
+[class^="partyFull_"] {
   background-image: url("https://nyri4.github.io/Discolored/assets/weapons.svg") !important;
 }
 
 /* 🏓 @everyone */
-.contentWarningPopout-WKdbDG g > :nth-child(2) > :first-child path {
+.contentWarningPopout__7d8c2 g > :nth-child(2) > :first-child path {
   fill: #0000003d;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(3) > :first-child path {
+.contentWarningPopout__7d8c2 g > :nth-child(3) > :first-child path {
   fill: #99abd8;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(3) > :nth-child(2) path {
+.contentWarningPopout__7d8c2 g > :nth-child(3) > :nth-child(2) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :first-child path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :first-child path {
   fill: #b3cafb;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(2) path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(2) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(3) path,
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(4) path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(3) path,
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(4) path {
   fill: #a0b2dc;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(5) path,
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(6) path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(5) path,
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(6) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(7) path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(7) path {
   fill: #8ba0d2;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(4) > :nth-child(8) path {
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(8) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(6) > :nth-child(2) path {
+.contentWarningPopout__7d8c2 g > :nth-child(6) > :nth-child(2) path {
   fill: #99abd8;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(10) > :first-child path {
+.contentWarningPopout__7d8c2 g > :nth-child(10) > :first-child path {
   fill: #e0c310;
 }
-.contentWarningPopout-WKdbDG g > :nth-child(11) > :first-child path {
+.contentWarningPopout__7d8c2 g > :nth-child(11) > :first-child path {
   fill: #fbd907;
 }
