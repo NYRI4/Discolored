@@ -6,20 +6,19 @@
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
   },
+  "private": true,
   "scripts": {
     "build": "replugged build theme",
     "watch": "replugged build theme --watch",
     "bundle": "replugged bundle theme",
+    "release": "replugged release",
     "lint": "prettier ./src --check",
     "lint:fix": "prettier ./src --write"
   },
   "author": "Nyria",
-  "license": "MIT",
+  "license": "WTFPL",
   "devDependencies": {
-    "@parcel/config-default": "^2.8.3",
-    "@parcel/core": "^2.8.3",
-    "@types/node": "^18.15.11",
-    "prettier": "^2.8.7",
-    "replugged": "^4.2.3"
+    "prettier": "^3.2.5",
+    "replugged": "^4.7.9"
   }
 }
