@@ -24,13 +24,13 @@
 }
 
 /* 🔎💥 Broken magnifying glass */
-:root .errorImage__416df {
+:root .errorImage__3570d {
   background: url("https://nyri4.github.io/Discolored/assets/broken.svg")
     center/cover;
 }
 
 /* 🏰 Castle */
-:root .verification__82f71 .image__54a8d {
+:root .verification_ab2e30 .image__30914 {
   background: url("https://nyri4.github.io/Discolored/assets/castle.svg") 50%/80%
     no-repeat;
 }
@@ -59,7 +59,7 @@
 }
 
 /* 💥 Crash */
-:root .image_dabcb8 {
+:root .image_e0cb48 {
   background-image: url("https://nyri4.github.io/Discolored/assets/crash.svg");
 }
 
@@ -76,8 +76,8 @@
 }
 
 /* 📭 Empty */
-:root .image__88b66,
-:root .emptyImage__66bed {
+:root .image__15b80,
+:root .emptyImage_a1225f {
   background-image: url("https://nyri4.github.io/Discolored/assets/empty.svg");
 }
 
@@ -90,33 +90,33 @@
 }
 
 /* 🤷‍♂️ GIF not found */
-:root .sadImage_e4e5ab {
+:root .sadImage__4d614 {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_not_found.svg");
 }
 
 /* 🤷‍ GIF picker end */
-:root .endContainer__0c909::after {
+:root .endContainer__4078a::after {
   background-image: url("https://nyri4.github.io/Discolored/assets/gif_picker_end.svg");
 }
 
 /* 👥 Groups */
-:root .noFriends_a7f7ca .errorStateIcon__7edd85 {
+:root .noFriends__65b07 .errorStateIcon_c94ccf5 {
   background-image: url("https://nyri4.github.io/Discolored/assets/groups.svg");
 }
 
 /* 🎁 Gift Inventory */
-:root .emptyStateImage__3e0a5,
-:root .emptyWumpus__67af4 {
+:root .emptyStateImage_b41d12,
+:root .emptyWumpus_d5031d {
   background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
 }
 
 /* 🏠 Houses */
-:root .emptyIconGuilds__72704 {
+:root .emptyIconGuilds_f8aeb2 {
   background-image: url("https://nyri4.github.io/Discolored/assets/houses.svg");
 }
 
 /* ✨ Integrations */
-:root .footerImage__21e33 {
+:root .footerImage_fb15e2 {
   background-image: url("https://nyri4.github.io/Discolored/assets/integrations.svg");
 }
 
@@ -146,24 +146,24 @@
 }
 
 /* 🙁 No Mutuals */
-:root .emptyIconFriends__8e334 {
+:root .emptyIconFriends_b554b1 {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_mutuals.svg");
   background-size: 100%;
 }
 
 /* 🔎 🗣️ No results conversation */
-:root .emptyState_afda24 {
+:root .emptyState_bdb86c {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results_conv.svg");
   background-size: 20%;
 }
 
 /* 🔎 No results search bar*/
-:root .noResultsImage__08760 {
+:root .noResultsImage__1a10e {
   background-image: url("https://nyri4.github.io/Discolored/assets/no_results.svg");
 }
 
 /* 📱 Phones */
-:root .verificationBlock_c45d0e .image__54a8d.phone__0b460 {
+:root .verificationBlock__2ee71 .image__30914.phone__0b460 {
   background-image: url("https://nyri4.github.io/Discolored/assets/phones.svg");
 }
 
@@ -180,9 +180,9 @@
 }
 
 /* 💩 Poo */
-:root .imageError__77b3e,
-:root .invalidPoop__03aa3,
-:root .guildIconExpired__1d51f {
+:root .imageError__3af5f,
+:root .invalidPoop__9bdd8,
+:root .guildIconExpired__67d9b {
   content: url("https://nyri4.github.io/Discolored/assets/poop.svg");
 }
 
@@ -193,8 +193,8 @@
 }
 
 /* 🔎 Searching */
-.theme-dark .searchIndexBackground__14e66,
-.theme-light .searchIndexBackground__14e66 {
+.theme-dark .searchIndexBackground__732e0,
+.theme-light .searchIndexBackground__732e0 {
   background-image: url("https://nyri4.github.io/Discolored/assets/searching.svg");
 }
 
@@ -205,7 +205,7 @@
 }
 
 /* 🟢 Spotify error */
-:root .artworkSpotifySessionEnded__8272a {
+:root .artworkSpotifySessionEnded_c0cf09 {
   background-image: url("https://nyri4.github.io/Discolored/assets/spotify_error.svg");
 }
 
@@ -215,8 +215,8 @@
 }
 
 /* 🔴 Streamer Mode */
-:root .streamerModeEnabledImage_a0d94f,
-:root .emptyIconStreamerMode__0b218 {
+:root .streamerModeEnabledImage__17db6,
+:root .emptyIconStreamerMode__424e7 {
   background-image: url("https://nyri4.github.io/Discolored/assets/streamer_mode.svg");
 }
 
@@ -228,7 +228,7 @@
 }
 
 /* 📹 Test Video */
-:root .previewImage__91c1c {
+:root .previewImage_befb69 {
   content: url("https://nyri4.github.io/Discolored/assets/test_video.svg");
 }
 
@@ -271,8 +271,8 @@
 /* 🍵 Wumpus Tea Party */
 [style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
 [style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
-.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
-.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
+.theme-dark .notFriends__2c41d .errorStateIcon_c94ccf,
+.theme-light .notFriends__2c41d .errorStateIcon_c94ccf {
   background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
 }
 
@@ -282,41 +282,41 @@
 }
 
 /* 🏓 @everyone */
-.contentWarningPopout__7d8c2 g > :nth-child(2) > :first-child path {
+.contentWarningPopout__84e38 g > :nth-child(2) > :first-child path {
   fill: #0000003d;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(3) > :first-child path {
+.contentWarningPopout__84e38 g > :nth-child(3) > :first-child path {
   fill: #99abd8;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(3) > :nth-child(2) path {
+.contentWarningPopout__84e38 g > :nth-child(3) > :nth-child(2) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :first-child path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :first-child path {
   fill: #b3cafb;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(2) path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(2) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(3) path,
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(4) path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(3) path,
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(4) path {
   fill: #a0b2dc;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(5) path,
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(6) path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(5) path,
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(6) path {
   fill: #7a8ec7;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(7) path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(7) path {
   fill: #8ba0d2;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(8) path {
+.contentWarningPopout__84e38 g > :nth-child(4) > :nth-child(8) path {
   fill: #c2d2f1;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(6) > :nth-child(2) path {
+.contentWarningPopout__84e38 g > :nth-child(6) > :nth-child(2) path {
   fill: #99abd8;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(10) > :first-child path {
+.contentWarningPopout__84e38 g > :nth-child(10) > :first-child path {
   fill: #e0c310;
 }
-.contentWarningPopout__7d8c2 g > :nth-child(11) > :first-child path {
+.contentWarningPopout__84e38 g > :nth-child(11) > :first-child path {
   fill: #fbd907;
 }
