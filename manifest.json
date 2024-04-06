@@ -2,11 +2,18 @@
   "id": "nyria.discolored",
   "name": "Discolored",
   "description": "Colorize Discord's boring SVGs",
-  "author": {
-    "name": "Nyria, Snapperito",
-    "discordID": "265924886461939712",
-    "github": "NYRI4"
-  },
+  "author": [
+    {
+      "name": "Nyria",
+      "discordID": "265924886461939712",
+      "github": "NYRI4"
+    },
+    {
+      "name": "Snapperito",
+      "discordID": "431883840483491850",
+      "github": "Snapperito"
+    }
+  ],
   "version": "1.3.5",
   "updater": {
     "type": "store",
